@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.htm ../
+parent_dir="$(dirname "$(pwd)")"; cp -u *.html "${parent_dir}/"
