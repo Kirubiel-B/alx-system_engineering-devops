@@ -37,6 +37,3 @@
   4. Schedule regular training sessions for the engineering and operations teams to ensure familiarity with incident response procedures and best practices.
 
 By implementing these measures and addressing the outlined tasks, we aim to strengthen the resilience of our cloud storage service and minimize the risk of similar incidents occurring in the future. Let's keep our data safely stored and our users smiling!
-```
-
-
