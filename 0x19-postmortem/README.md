@@ -39,4 +39,4 @@
 By implementing these measures and addressing the outlined tasks, we aim to strengthen the resilience of our cloud storage service and minimize the risk of similar incidents occurring in the future. Let's keep our data safely stored and our users smiling!
 ```
 
-This should properly format the titles and bullet points in the README.md file.
+
